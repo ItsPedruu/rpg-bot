@@ -1,4 +1,4 @@
-let texts = ['dungeons', 'battles', 'trades', 'shop', 'inventory', 'map', 'mining', 'exploration', 'missions', 'clans'];
+let texts = ['dungeons', 'battles', 'trades', 'shop', 'inventory', 'map', 'mining', 'exploration', 'missions', 'clans', 'market', 'skills', 'book reading', 'pets'];
 let lastTextIndex = 0;
 
 function fadeOutElement(element) {
